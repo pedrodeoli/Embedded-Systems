@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "author": "Pedro Couto",
+  "editor": "wokwi",
+  "parts": [ { "type": "wokwi-arduino-uno", "id": "uno", "top": 96.6, "left": -10.2, "attrs": {} } ],
+  "connections": [],
+  "dependencies": {}
+}
